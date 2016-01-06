@@ -27,6 +27,7 @@ The following services are included in the cluster on the master or the slave no
 * Hue (master) - http://MASTER_IP:8888
 
 Don't forget that only the master node has a MASTER_IP!
+
 Default MASTER_IP is `192.168.100.100`
 #### <i class="icon-file"></i> Pre-installation
 
