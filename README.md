@@ -65,3 +65,5 @@ SSH into master node (default `IP: 192.168.100.100`)
 ```sh
 ./cloudera-manager-installer.bin
 ```
+
+** Please increase the size of Master node up to 40GB. This is th minimum requirement of Cloudera **
